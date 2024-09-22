@@ -81,7 +81,7 @@ A variável tem_cnh é do tipo bool, boolean (boolenada) ou lógica. No Python s
 
 ## Saída de dados utilizando variáveis e textos
 
-No primeiro código de exemplo vimos como escrever o texto "Hello World". Mas, se quisermos escrever o conteúdo de uma varíavel ou mesmo se quisermos escrever um texto concatenado com o conteúdo de variáveis temos que após declarar as varíavels fazer o seguinte:
+No primeiro código de exemplo vimos como escrever o texto "Hello World". Mas, se quisermos escrever o conteúdo de uma varíavel ou mesmo se quisermos escrever um texto concatenado com o conteúdo de variáveis temos que após declarar as varíaveis fazer o seguinte:
 
 ~~~python
 # Variaveis e tipos de dados
