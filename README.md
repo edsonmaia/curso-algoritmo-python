@@ -22,25 +22,25 @@ Curso de Algoritmo com os principais conceitos de programação utilizando a lin
 
 2. [Aula 02 - Comando de Entrada](https://github.com/edsonmaia/curso-algoritmo-python/blob/main/aula02-algoritmo-python.md)
 
-3. [Aula 03 - Operadores e Operações](https://github.com/edsonmaia/curso-algoritmo-python/blob/main/docs/aula03-algoritmo-python.md)
+3. [Aula 03 - Operadores e Operações](https://github.com/edsonmaia/curso-algoritmo-python/blob/main/aula03-algoritmo-python.md)
 
-4. [Aula 04 - Estruturas - Estruturas Condicionais](https://github.com/edsonmaia/curso-algoritmo-python/blob/main/docs/aula04-algoritmo-python.md)
+4. [Aula 04 - Estruturas - Estruturas Condicionais](https://github.com/edsonmaia/curso-algoritmo-python/blob/main/aula04-algoritmo-python.md)
 
-5. [Aula 05 - Listas, Array, Vetores e Matrizes](https://github.com/edsonmaia/curso-algoritmo-python/blob/main/docs/aula05-algoritmo-python.md)
+5. [Aula 05 - Listas, Array, Vetores e Matrizes](https://github.com/edsonmaia/curso-algoritmo-python/blob/main/aula05-algoritmo-python.md)
 
-6. [Aula 06 - Estruturas de Decisão](https://github.com/edsonmaia/curso-algoritmo-python/blob/main/docs/aula06-algoritmo-python.md)
+6. [Aula 06 - Estruturas de Decisão](https://github.com/edsonmaia/curso-algoritmo-python/blob/main/aula06-algoritmo-python.md)
 
-7. [Aula 07 - Estruturas de Repetição](https://github.com/edsonmaia/curso-algoritmo-python/blob/main/docs/aula07-algoritmo-python.md)
+7. [Aula 07 - Estruturas de Repetição](https://github.com/edsonmaia/curso-algoritmo-python/blob/main/aula07-algoritmo-python.md)
 
-<!-- 8. [Aula 08 - Desafios](https://github.com/edsonmaia/curso-algoritmo-python/blob/main/docs/aula08-algoritmo-python.md)
+<!-- 8. [Aula 08 - Desafios](https://github.com/edsonmaia/curso-algoritmo-python/blob/main/aula08-algoritmo-python.md)
 
-9. [Aula 09 - Tuplas e Dicionários](https://github.com/edsonmaia/curso-algoritmo-python/blob/main/docs/aula09-algoritmo-python.md)
+9. [Aula 09 - Tuplas e Dicionários](https://github.com/edsonmaia/curso-algoritmo-python/blob/main/aula09-algoritmo-python.md)
 
-10. [Aula 10 - Funções e Imports](https://github.com/edsonmaia/curso-algoritmo-python/blob/main/docs/aula10-algoritmo-python.md)
+10. [Aula 10 - Funções e Imports](https://github.com/edsonmaia/curso-algoritmo-python/blob/main/aula10-algoritmo-python.md)
 
-11. [Aula 11 - Desafios](https://github.com/edsonmaia/curso-algoritmo-python/blob/main/docs/aula11-algoritmo-python.md)
+11. [Aula 11 - Desafios](https://github.com/edsonmaia/curso-algoritmo-python/blob/main/aula11-algoritmo-python.md)
 
-12. [Aula 12 - Extras](https://github.com/edsonmaia/curso-algoritmo-python/blob/main/docs/aula12-algoritmo-python.md) -->
+12. [Aula 12 - Extras](https://github.com/edsonmaia/curso-algoritmo-python/blob/main/aula12-algoritmo-python.md) -->
 
 ## Vídeos no YouTube
 
