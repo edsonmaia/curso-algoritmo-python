@@ -8,7 +8,7 @@
 
 ## Baixe o PDF dos Desafios
 
-> [PDF dos Desafios](https://github.com/edsonmaia/curso-algoritmo-python/blob/main/pdf/curso-de-algoritmo-desafios-de-python-professor-edosn-maia%202024.pdf)
+> [PDF dos Desafios](https://github.com/edsonmaia/curso-algoritmo-python/blob/main/pdf/curso-de-algoritmo-desafios-de-python-professor-edson-maia-2024.pdf)
 
 Resolva os seguintes desafios de código utilizando a linguagem Python:
 

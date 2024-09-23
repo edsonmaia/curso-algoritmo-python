@@ -32,7 +32,7 @@ Curso de Algoritmo com os principais conceitos de programação utilizando a lin
 
 7. [Aula 07 - Estruturas de Repetição](https://github.com/edsonmaia/curso-algoritmo-python/blob/main/aula07-algoritmo-python.md)
 
-8. [Aula 08 - Desafios](https://github.com/edsonmaia/curso-algoritmo-python/blob/main/pdf/curso-de-algoritmo-desafios-de-python-professor-edosn-maia%202024.pdf)
+8. [Aula 08 - Desafios](https://github.com/edsonmaia/curso-algoritmo-python/blob/main/aula08-algoritmo-python.md)
 
 <!-- 9. [Aula 09 - Tuplas e Dicionários](https://github.com/edsonmaia/curso-algoritmo-python/blob/main/aula09-algoritmo-python.md)
 
