@@ -58,7 +58,7 @@ Curso de Algoritmo com os principais conceitos de programação utilizando a lin
 
 7. [Aula 07 - Estruturas de Repetição](https://youtu.be/jgezKbS6a7I)
 
-8. [Aula 08 - Desafios](em breve)
+8. [Aula 08 - Desafios](https://youtu.be/dtacLycgeH4)
 
 9. [Aula 09 - Tuplas e Dicionários](em breve)
 
