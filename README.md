@@ -34,8 +34,9 @@ Curso de Algoritmo com os principais conceitos de programação utilizando a lin
 
 8. [Aula 08 - Desafios](https://github.com/edsonmaia/curso-algoritmo-python/blob/main/aula08-algoritmo-python.md)
 
-<!-- 9. [Aula 09 - Tuplas e Dicionários](https://github.com/edsonmaia/curso-algoritmo-python/blob/main/aula09-algoritmo-python.md)
+9. [Aula 09 - Tuplas,  Dicionários e Métodos](https://github.com/edsonmaia/curso-algoritmo-python/blob/main/aula09-algoritmo-python.md)
 
+<!--
 10. [Aula 10 - Funções e Imports](https://github.com/edsonmaia/curso-algoritmo-python/blob/main/aula10-algoritmo-python.md)
 
 11. [Aula 11 - Desafios](https://github.com/edsonmaia/curso-algoritmo-python/blob/main/aula11-algoritmo-python.md)
@@ -60,7 +61,7 @@ Curso de Algoritmo com os principais conceitos de programação utilizando a lin
 
 8. [Aula 08 - Desafios](https://youtu.be/dtacLycgeH4)
 
-9. [Aula 09 - Tuplas e Dicionários](em breve)
+9. [Aula 09 - Tuplas e Dicionários](https://youtu.be/fAzMwW4V_G8)
 
 10. [Aula 10 - Funções e Imports](em breve)
 
