@@ -2,14 +2,13 @@
 
 ## Aula 09 - Tuplas, Dicionários e Métodos
 
-1. Acesse o site `https://www.onlinegdb.com/`
-2. No canto superior direito em `Language`, escolha `Python 3`
-
 ## Tuplas e Dicionários
 
 Nesta aula vamos trabalhar com duas outras estrutura de dados - Tuplas e Dicionários em Python.
 
-Na área de código, apague tudo que está lá e digite o seguinte:
+1. Acesse o site `https://www.onlinegdb.com/`
+2. No canto superior direito em `Language`, escolha `Python 3`
+3. Na área de código, apague tudo que está lá e digite o seguinte:
 
 ~~~python
 # Aula 09 tuplas e dicionarios

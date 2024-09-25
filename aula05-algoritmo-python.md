@@ -2,11 +2,11 @@
 
 ## Aula 05 - Listas, Vetores e Matrizes
 
+Além de poder criar variáveis para armazenar dados específicos, também podemos criar outras estruturas de dados. Uma das estruturas mais utilizadas se chamam array, vetor e matriz. Digite o código abaixo para exercitamos estes conceitos:
+
 1. Acesse o site `https://www.onlinegdb.com/`
 2. No canto superior direito em `Language`, escolha `Python 3`
 3. Na área de código, apague tudo que está lá e digite o seguinte:
-
-Além de poder criar variáveis para armazenar dados específicos, também podemos criar outras estruturas de dados. Uma das estruturas mais utilizadas se chamam array, vetor e matriz. Digite o código abaixo para exercitamos estes conceitos:
 
 ~~~python
 # Aula 05 - Listas (Vetor ou Matriz)

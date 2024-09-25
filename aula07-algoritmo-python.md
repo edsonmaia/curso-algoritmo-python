@@ -2,11 +2,11 @@
 
 ## Aula 07 - Estrutura de Repetição
 
+Em linguagem natural a estrutura de repetição conhecidas são `para ... faça`, `enquanto ... faça`, e `faça... enquanto`, em inglês e outras linguagens são conhecidas como `for`, `while` e `do while`, mas, no Python temos só duas estruturas é o `for ... in` e `while`.
+
 1. Acesse o site `https://www.onlinegdb.com/`
 2. No canto superior direito em `Language`, escolha `Python 3`
 3. Na área de código, apague tudo que está lá e digite o seguinte:
-
-Em linguagem natural a estrutura de repetição conhecidas são `para ... faça`, `enquanto ... faça`, e `faça... enquanto`, em inglês e outras linguagens são conhecidas como `for`, `while` e `do while`, mas, no Python temos só duas estruturas é o `for ... in` e `while`. Faça os seguintes códigos para exercitarmos:
 
 ~~~python
 '''

@@ -2,10 +2,6 @@
 
 ## Aula 08 - Desafios
 
-1. Acesse o site `https://www.onlinegdb.com/`
-2. No canto superior direito em `Language`, escolha `Python 3`
-3. Na área de código, apague tudo que está lá e digite o seguinte:
-
 ## Baixe o PDF dos Desafios
 
 > [PDF dos Desafios](https://github.com/edsonmaia/curso-algoritmo-python/blob/main/pdf/curso-de-algoritmo-desafios-de-python-professor-edson-maia-2024.pdf)

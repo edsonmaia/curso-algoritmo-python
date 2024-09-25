@@ -2,11 +2,11 @@
 
 ## Aula 04 - Estruturas - Estruturas Condicionais
 
+Inicialmente, é importante alinhamos alguns conceitos. Estamos aprendendo a programar utilizando um paradigma chamado Programação Imperativa que é sequencial e estruturada. Esta forma de programação é formada basicamente por 3 partes. Em seguida estudaremos outros operadores e sua aplicação em estruturas.
+
 1. Acesse o site `https://www.onlinegdb.com/`
 2. No canto superior direito em `Language`, escolha `Python 3`
 3. Na área de código, apague tudo que está lá e digite o seguinte:
-
-Inicialmente, é importante alinhamos alguns conceitos. Estamos aprendendo a programar utilizando um paradigma chamado Programação Imperativa que é sequencial e estruturada. Esta forma de programação é formada basicamente por 3 partes. Em seguida estudaremos outros operadores e sua aplicação em estruturas.
 
 ~~~python
 # Aula 04 - Estruturas

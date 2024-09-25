@@ -2,11 +2,11 @@
 
 ## Aula 06 - Estruturas de Decisão
 
+Em linguagem natural a estrutura de desvio de Decisão é conhecida como `escolha ... caso` ou `switch ... case`, mas, no Python esta estrutura é o `match ... case`. Disponível a partir da versão 3.4.
+
 1. Acesse o site `https://www.onlinegdb.com/`
 2. No canto superior direito em `Language`, escolha `Python 3`
 3. Na área de código, apague tudo que está lá e digite o seguinte:
-
-Em linguagem natural a estrutura de desvio de Decisão é conhecida como `escolha ... caso` ou `switch ... case`, mas, no Python esta estrutura é o `match ... case`. Disponível a partir da versão 3.4. Digite o código abaixo para exercitamos estes conceitos:
 
 ~~~python
 '''
