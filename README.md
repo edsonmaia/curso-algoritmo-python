@@ -63,7 +63,7 @@ Curso de Algoritmo com os principais conceitos de programação utilizando a lin
 9. [Aula 09 - Tuplas e Dicionários](https://youtu.be/fAzMwW4V_G8)
 
 10. [Aula 10 - Funções](https://youtu.be/CziCLD7n6mo)
-
+<!--
 11. [Aula 11 - Desafios](em breve)
 
 12. [Aula 12 - Extras](em breve) -->

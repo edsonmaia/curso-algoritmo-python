@@ -6,7 +6,7 @@ Nesta aula vamos aprender o que são rotinas e como implementar elas no Python.
 
 ## Rotinas
 
-São sequências de ações a serem executadas de forma repetida no seu algoritmo.
+São sequências de ações a serem executadas de forma repetida no seu algoritmo, ou blocos de códigos reutilizáveis.
 
 As rotinas são divididas em 2 tipos - procedimentos e funções.
 
@@ -70,6 +70,8 @@ print(f"{media:.2f}")
 ~~~
 
 Funções são um recurso muito importante para organizar nosso código, reaproveitando trechos que se repetem, colocando eles na estrutura função que permite reutilizá-los quantas vezes for necssário.
+
+> Apesar de ter usado o padrão de nomes camelCase nas funções. A comunidade Python prefere trabalhar com o padrão snake_case também para nomes de funções ou métodos.
 
 ## Considerações
 
