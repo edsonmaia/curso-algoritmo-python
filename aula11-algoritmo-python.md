@@ -93,7 +93,7 @@ O desafio 6 é um complemento do desafio 5.
 
 situacao1 = ''
 situacao2 = ''
-media = 5.0 # exemplo
+
 if(media >= 7):
     situacao1 = "Aprovado"
 else:
