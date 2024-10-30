@@ -39,8 +39,8 @@ Curso de Algoritmo com os principais conceitos de programação utilizando a lin
 10. [Aula 10 - Funções](https://github.com/edsonmaia/curso-algoritmo-python/blob/main/aula10-algoritmo-python.md)
 
 11. [Aula 11 - Solução dos Desafios](https://github.com/edsonmaia/curso-algoritmo-python/blob/main/aula11-algoritmo-python.md)
-<!--
-12. [Aula 12 - Extras](https://github.com/edsonmaia/curso-algoritmo-python/blob/main/aula12-algoritmo-python.md) -->
+
+12. [Aula 12 - Módulos e Import](https://github.com/edsonmaia/curso-algoritmo-python/blob/main/aula12-algoritmo-python.md)
 
 ## Vídeos no YouTube
 
@@ -65,7 +65,7 @@ Curso de Algoritmo com os principais conceitos de programação utilizando a lin
 10. [Aula 10 - Funções](https://youtu.be/CziCLD7n6mo)
 
 11. [Aula 11 - Solução dos Desafios](https://youtu.be/PmCc4VzZpPQ)
-<!--
-12. [Aula 12 - Extras](em breve) -->
+
+12. [Aula 12 - Módulos e Import](em breve)
 
 Salve Devs, até as próximas aulas!
