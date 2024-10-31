@@ -66,6 +66,6 @@ Curso de Algoritmo com os principais conceitos de programação utilizando a lin
 
 11. [Aula 11 - Solução dos Desafios](https://youtu.be/PmCc4VzZpPQ)
 
-12. [Aula 12 - Módulos e Import](em breve)
+12. [Aula 12 - Módulos e Import](https://youtu.be/XAQG9D8IZII)
 
 Salve Devs, até as próximas aulas!
