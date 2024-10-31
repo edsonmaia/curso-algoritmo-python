@@ -1,6 +1,6 @@
 # Curso de Algoritmo em Python
 
-## Aula 12 - Extras
+## Aula 12 - Módulos e Import
 
 Nesta aula vamos aprender alguns conceitos extras sobre programação em Python.
 
