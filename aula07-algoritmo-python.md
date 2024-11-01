@@ -24,7 +24,7 @@ cores = ['Azul', 'Vermelho', 'Verde', 'Preto']
 print("for\n")
 
 
-# for cor in cores:
+for cor in cores:
     print(cor)
 
 # while
